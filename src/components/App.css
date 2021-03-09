@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+ul{
+  
+  display : flex;
+  list-style-type: none;
+    
+}
+li{
+
+  padding: 5px;
+}
+li a:hover{
+  color: green;
+  text-decoration: none;
+}
